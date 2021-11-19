@@ -3,7 +3,7 @@
 # Guia para Intermediate Developer Certification
 
 
-| ![image-20211114101021226](images\image-20211114101021226.png) |
+| ![image-20211114101021226](images/image-20211114101021226.png) |
 | :----------------------------------------------------------: |
 
 ## Instruções 
