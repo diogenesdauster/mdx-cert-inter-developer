@@ -12,7 +12,7 @@
 
 Você receberá dois e-mail um contendo a extension do chrome. Que precisa ser instalada e a sala do Zoom e outro e-mail contendo o check up da máquina e a iniciação do teste.
 
-| ![image-20211114102426084](images\image-20211114102426084.png) | ![image-20211114103142093](images\image-20211114103142093.png) |
+| ![image-20211114102426084](images/image-20211114102426084.png) | ![image-20211114103142093](images/image-20211114103142093.png) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 ** **Atenção** **
@@ -84,9 +84,9 @@ Não é necessário passar por todos os paths da mendix, então para esse trilha
 
 
 
-![image-20211119133504595](images\image-20211119133504595.png)
+![image-20211119133504595](images/image-20211119133504595.png)
 
-![image-20211119133517040](images\image-20211119133517040.png)
+![image-20211119133517040](images/image-20211119133517040.png)
 
 
 
